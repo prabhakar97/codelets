@@ -1,4 +1,4 @@
-Run this script to generate 3D subtitles automatically for all your 3D movie collections.
+Run this script to generate 3D subtitles automatically for all your 3D movie collections. Generated subtitles will be with extension .ass
 
 Requirements
 -----------
